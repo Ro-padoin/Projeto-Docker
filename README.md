@@ -3,7 +3,7 @@
 * Curso de Desenvolvimento WEB - TRYBE - Turma 17.
 
 
-# Conteúdo do projeto:
+## Conteúdo do projeto:
 
 A Trybe disponibilizou uma aplicação de Todo List, e com ela: 
 
@@ -17,7 +17,7 @@ O desenvolvimento feito por mim, encontra-se em:
 * docker-compose.yml
 
 
-# Habilidades
+## Habilidades
 
   * Usar comandos dockers no CLI - Interface de linha de comando;
   * Criar imagens Docker;
