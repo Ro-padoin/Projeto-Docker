@@ -1,4 +1,4 @@
-# Boas vindas ao repositório do projeto Docker Todo List!
+# Boas vindas ao repositório do projeto Docker!
 * Projeto desenvolvido no Modulo de BackEnd - bloco 19.
 * Curso de Desenvolvimento WEB - TRYBE - Turma 17.
 
