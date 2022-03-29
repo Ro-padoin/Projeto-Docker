@@ -5,21 +5,22 @@
 
 # Conteúdo do projeto:
 
-No projeto foi disponibilizado uma aplicação de Todo List pronta pela Trybe, e com isso: 
+A Trybe disponibilizou uma aplicação de Todo List, e com ela: 
 
-Criamos imagens das aplicações e configuramos com o docker-compose.
-Conteinerizamos as aplicações de frontend, backend e testes, criando uma conexão entre elas e orquestrando seu funcionamento.
+* Criamos imagens das aplicações e configuramos com o docker-compose.
+* Conteinerizamos as aplicações de frontend, backend e testes, criando uma conexão entre elas e orquestrando seu funcionamento.
+
 O desenvolvimento feito por mim, encontra-se em:
 
-- arquivos command01.dc a command12.dc (pasta docker-commands);
-- arquivos Dockerfile, contido em: backe-end, front-end e tests (pasta todo-app)
-- docker-compose.yml
+* arquivos command01.dc a command12.dc (pasta docker-commands);
+* arquivos Dockerfile, contido em: backe-end, front-end e tests (pasta todo-app)
+* docker-compose.yml
 
 
 # Habilidades
 
   * Usar comandos dockers no CLI - Interface de linha de comando;
-  *Criar imagens Docker;
+  * Criar imagens Docker;
   * Criar um contêiner Docker para uma aplicação de front-end;
   * Criar um contêiner Docker para uma aplicação de back-end;
   * Criar um contêiner Docker para uma aplicação de testes;
